@@ -7,9 +7,6 @@
 <br/>
 
 ## Experience
-
-<br/>
-
 - JavaScript
 - React JS
 - React Native
