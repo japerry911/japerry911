@@ -31,7 +31,7 @@
 - Stripe API
 
 ## 2020 Accomplishments
-- Sky's Library - React Native / Ruby on Rails Full Stack Mobile App
+- Skylord's Library - React Native / Ruby on Rails Full Stack Mobile App
 - Vrana Construction Demo Website - React / Ruby on Rails Full Stack Web App (Material-UI Framework)
 - Skylord's Depot - React / Ruby on Rails Full Stack Web App (SCSS, Stripe API, Rails Cookies Handling)
 - Skylord's Movie Club - Vue JS / Ruby on Rails Full Stack Web App 
