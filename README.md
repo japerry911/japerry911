@@ -39,12 +39,12 @@
 - Skylord's Movie Club - Vue JS / Ruby on Rails Full Stack Web App 
 - Skylord's Timekeeping - React JS / GoLang Full Stack Web App
 - Successfully completed DU's Operating System course
-- 400+ Kata completed on CodeWars (utilized over 10 Languages)
+- 400+ Kata completed on CodeWars (utilized over 10 different Languages)
 
 
 ## CodeWars
 - Ranked in the Top 1% of CodeWars' users
 - Authored C++ Kata Translation
-- Utilized over 10 languages
+- Utilized over 10 different languages
 - 400+ Kata completed <br/><br/>
 [![japerry's github stats](https://www.codewars.com/users/skylord395/badges/large)](https://www.codewars.com/users/skylord395)
