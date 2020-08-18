@@ -1,8 +1,15 @@
 [![japerry's github stats](https://github-readme-stats.vercel.app/api?username=japerry911&show_icons=true&theme=vue&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
-### CS MS Student
+# Jack Perry - Aspiring Software Engineer
+
+## CS MS Student
+
 <br/>
-### Experience:
+
+## Experience
+
+<br/>
+
 - JavaScript
 - React JS
 - React Native
@@ -25,7 +32,7 @@
 - Ecto / Postgres
 - Stripe API
 
-### 2020 Accomplishments
+## 2020 Accomplishments
 - Sky's Library - React Native / Ruby on Rails Full Stack Mobile App
 - Vrana Construction Demo Website - React / Ruby on Rails Full Stack Web App (Material-UI Framework)
 - Skylord's Depot - React / Ruby on Rails Full Stack Web App (SCSS, Stripe API, Rails Cookies Handling)
@@ -35,7 +42,7 @@
 - 400+ Kata completed on CodeWars (utilized over 10 Languages)
 
 
-### CodeWars
+## CodeWars
 - Ranked in the Top 1% of CodeWars' users
 - Authored C++ Translation
 - Utilized over 10 languages
