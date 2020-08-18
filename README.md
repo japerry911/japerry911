@@ -39,5 +39,5 @@
 - Ranked in the Top 1% of CodeWars' users
 - Authored C++ Translation
 - Utilized over 10 languages
-- 400+ Kata completed <br/><br/><br/>
+- 400+ Kata completed <br/><br/>
 [![japerry's github stats](https://www.codewars.com/users/skylord395/badges/large)](https://www.codewars.com/users/skylord395)
