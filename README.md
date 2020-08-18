@@ -2,7 +2,7 @@
 
 [![japerry's github stats](https://github-readme-stats.vercel.app/api?username=japerry911&show_icons=true&theme=vue&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
-## CS MS Student
+## Computer Science M.S Student
 
 <br/>
 
@@ -38,7 +38,7 @@
 - Skylord's Depot - React / Ruby on Rails Full Stack Web App (SCSS, Stripe API, Rails Cookies Handling)
 - Skylord's Movie Club - Vue JS / Ruby on Rails Full Stack Web App 
 - Skylord's Timekeeping - React JS / GoLang Full Stack Web App
-- Successfully completed DU's Operating System course
+- Successfully completed DU's Operating Systems course
 - 400+ Kata completed on CodeWars (utilized over 10 different Languages)
 
 
