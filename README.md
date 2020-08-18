@@ -27,7 +27,7 @@
 - C
 - Rust
 - Haskell
-- Elxir
+- Elixir
 - Phoenix Framework
 - Ecto / Postgres
 - Stripe API
