@@ -51,7 +51,7 @@
 - 400+ Kata completed on CodeWars (utilized over 10 different Languages)
 
 ## GitHub Stats
-[![japerry's github stats](https://github-readme-stats.vercel.app/api?username=japerry911&show_icons=true&theme=vue&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+[![japerry's github stats](https://github-readme-stats.vercel.app/api?username=japerry911&show_icons=true&theme=nightowl&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ## CodeWars
 - Ranked in the Top 1% of CodeWars' users
