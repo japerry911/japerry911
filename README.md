@@ -10,6 +10,10 @@
 
 <br/>
 
+## [LinkedIn](https://www.linkedin.com/in/jack-e-perry/)
+
+<br/>
+
 ## Experience
 - JavaScript
 - React JS
