@@ -42,7 +42,6 @@
 - Google Apps Scripts
 
 ## 2020 Accomplishments
-- <a href="https://www.youtube.com/watch?v=q3Z97DHl-2o" target="_blank">Skylord's Library</a>t
 - [Skylord's Library](https://www.youtube.com/watch?v=q3Z97DHl-2o) - React Native / Ruby on Rails Full Stack Mobile App
 - [Vrana Website](https://www.youtube.com/watch?v=oTsT9zg0lbA) - React / Ruby on Rails Full Stack Web App (Material-UI Framework)
 - [Skylord Depot](https://www.youtube.com/watch?v=wStR5tNoWlY) - React / Ruby on Rails Full Stack Web App (SCSS, Stripe API, Rails Cookies Handling)
