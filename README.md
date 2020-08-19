@@ -1,9 +1,12 @@
 # Jack Perry - Aspiring Software Engineer
 
-[![japerry's github stats](https://github-readme-stats.vercel.app/api?username=japerry911&show_icons=true&theme=vue&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Computer Science M.S Student
 - University of Denver - Ritchie School of Computer Science and Engineering
+
+<br/>
+
+## [Personal Site](http://thejackperry.com)
+##### Note: Personal Site and Project Sites may take up to 20 seconds to load due to being deployed through Heroku
 
 <br/>
 
@@ -16,33 +19,47 @@
 - GoLang
 - Gorilla Mux Router
 - Ruby
-- Ruby on Rails
-- HTML/CSS
-- SCSS
+- Ruby on Rails / Rake
+- HTML/CSS/SCSS
 - Google Material-UI Framework
 - SQL
 - C++
 - C
 - Rust
+- Python 
 - Haskell
 - Elixir
-- Phoenix Framework
-- Ecto / Postgres
+- Phoenix Framework / Ecto
+- Postgres
 - Stripe API
+- Google Cloud Platform (Cloud Function, BigQuery, Cloud Storage, App Engine)
+- NASM
+- Heroku Deployment
+- Google Apps Scripts
 
 ## 2020 Accomplishments
-- Skylord's Library - React Native / Ruby on Rails Full Stack Mobile App
-- Vrana Construction Demo Website - React / Ruby on Rails Full Stack Web App (Material-UI Framework)
-- Skylord's Depot - React / Ruby on Rails Full Stack Web App (SCSS, Stripe API, Rails Cookies Handling)
-- Skylord's Movie Club - Vue JS / Ruby on Rails Full Stack Web App 
-- Skylord's Timekeeping - React JS / GoLang Full Stack Web App
-- Successfully completed DU's Operating Systems course
+- [Skylord's Library](https://www.youtube.com/watch?v=q3Z97DHl-2o) - React Native / Ruby on Rails Full Stack Mobile App
+- [Vrana Website](https://www.youtube.com/watch?v=oTsT9zg0lbA) - React / Ruby on Rails Full Stack Web App (Material-UI Framework)
+- [Skylord Depot](https://www.youtube.com/watch?v=wStR5tNoWlY) - React / Ruby on Rails Full Stack Web App (SCSS, Stripe API, Rails Cookies Handling)
+- [Skylord Movie Club Walkthrough](https://www.youtube.com/watch?v=KN1aw6KgI60) - Vue JS / Ruby on Rails Full Stack Web App 
+- [Skylord's Timekeeper](https://www.youtube.com/watch?v=ieFLfJX53Ow) - React JS / GoLang Full Stack Web App
+- Successfully completed DU's Operating Systems I course
 - 400+ Kata completed on CodeWars (utilized over 10 different Languages)
 
+## GitHub Stats
+[![japerry's github stats](https://github-readme-stats.vercel.app/api?username=japerry911&show_icons=true&theme=vue&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ## CodeWars
 - Ranked in the Top 1% of CodeWars' users
-- Authored C++ Kata Translation
+- Authored a C++ Kata Translation - [found here](https://www.codewars.com/kata/5f0ea61fd997db00327e6c25)
 - Utilized over 10 different languages
 - 400+ Kata completed <br/><br/>
 [![japerry's github stats](https://www.codewars.com/users/skylord395/badges/large)](https://www.codewars.com/users/skylord395)
+
+## Blogposts
+- [How to Preload Images into Cache in React JS](https://medium.com/@jackperry_57377/how-to-preload-images-into-cache-in-react-js-ff1642708240)
+- [My First Impressions of Elixir](https://medium.com/@jackperry_57377/my-first-impressions-of-elixir-57f0d5741c8f)
+- [How to set up a Simple Loading Spinner in Vue with Vuex](https://medium.com/@jackperry_57377/how-to-set-up-a-simple-loading-spinner-in-vue-with-vuex-8afc0ef50363)
+- [React Native: How to Fetch Fonts and Images Prior to Running](https://medium.com/@jackperry_57377/react-native-how-to-fetch-fonts-and-images-prior-to-running-932384571f2d)
+- [How to Use JavaScript Fetch to Display API Results in HTML](https://medium.com/@jackperry_57377/how-to-use-javascript-fetch-to-display-api-results-in-html-7aa59936ed30)
+- [Ruby — an Object Oriented Programming Language for all](https://medium.com/@jackperry_57377/ruby-an-object-oriented-programming-language-for-all-a54dbd7b84df)
