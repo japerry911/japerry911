@@ -19,7 +19,7 @@
 - React JS
 - React Native
 - Vue JS
-- Node Express
+- Node Express Framework
 - GoLang
 - Gorilla Mux Router
 - Ruby
