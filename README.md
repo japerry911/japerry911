@@ -55,7 +55,6 @@
 [![japerry's github stats](https://github-readme-stats.vercel.app/api?username=japerry911&show_icons=true&theme=nightowl&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ## CodeWars
-- Ranked in the Top 1% of CodeWars' users
 - Authored a C++ Kata Translation - [found here](https://www.codewars.com/kata/5f0ea61fd997db00327e6c25)
 - Utilized over 10 different languages
 - 400+ Kata completed <br/><br/>
