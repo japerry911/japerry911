@@ -57,7 +57,7 @@
 ## CodeWars
 - Authored a C++ Kata Translation - [found here](https://www.codewars.com/kata/5f0ea61fd997db00327e6c25)
 - Utilized over 10 different languages
-- 400+ Kata completed <br/><br/>
+- 400+ Katas completed <br/><br/>
 [![japerry's github stats](https://www.codewars.com/users/skylord395/badges/large)](https://www.codewars.com/users/skylord395)
 
 ## Blogposts
