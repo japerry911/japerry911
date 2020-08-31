@@ -12,7 +12,7 @@
 
 ## [LinkedIn](https://www.linkedin.com/in/jack-e-perry/)
 
-## Completed Projects (2020 - Present)
+## Notable Completed Projects
 [![Portfolio 2.0 (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Portfolio-Frontend-2.0)](https://github.com/japerry911/Portfolio-Frontend-2.0)
 <br/>
 [![Dog-Cave](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Dog-Cave)](https://github.com/japerry911/Dog-Cave)
