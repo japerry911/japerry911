@@ -36,7 +36,6 @@
 - React JS
 - React Native
 - Vue JS
-- Node Express Framework
 - GoLang
 - Gorilla Mux Router
 - Ruby
