@@ -42,6 +42,8 @@
 - Ruby on Rails / Rake
 - HTML/CSS/SCSS
 - Google Material-UI Framework
+- NodeJS Express / MongoDB
+- GraphQL (Apollo GraphQL)
 - SQL
 - C++
 - C
