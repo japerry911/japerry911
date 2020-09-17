@@ -31,7 +31,7 @@
 
 <br/>
 
-## Experience
+## Experience with
 - JavaScript
 - React JS
 - React Native
