@@ -2,6 +2,14 @@
 
 ## Computer Science M.S Student
 - University of Denver - Ritchie School of Computer Science and Engineering
+  - Classes:
+    - C++ I
+    - C++ II
+    - Discrete Math
+    - Computer Organization
+    - Operating Systems
+    - Programming Languages (in-progress)
+    - Data Mining (in-progress)
 
 <br/>
 
