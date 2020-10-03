@@ -1,6 +1,6 @@
 # Jack Perry - Aspiring Software Engineer
 
-## Computer Science M.S Student
+## Computer Science M.S Student || ETL Automation Developer
 - University of Denver - Ritchie School of Computer Science and Engineering
   - Classes:
     - C++ I
