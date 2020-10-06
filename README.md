@@ -8,6 +8,8 @@
     - Discrete Math
     - Computer Organization
     - Operating Systems
+    - Advanced Systems Programming
+    - Algebraic Problem Solving
     - Programming Languages (in-progress)
     - Data Mining (in-progress)
 
