@@ -59,6 +59,7 @@
 - C
 - Rust
 - Python 
+- Docker
 - Haskell
 - Elixir
 - Phoenix Framework / Ecto
