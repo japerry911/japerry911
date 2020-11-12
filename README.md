@@ -12,6 +12,8 @@
     - Algebraic Problem Solving
     - Programming Languages (in-progress)
     - Data Mining (in-progress)
+    - Computer Security (next quarter)
+    - Discrete Structures (next quarter)
 
 <br/>
 
