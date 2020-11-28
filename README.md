@@ -10,10 +10,10 @@
     - Operating Systems
     - Advanced Systems Programming
     - Algebraic Problem Solving
-    - Programming Languages (in-progress)
-    - Data Mining (in-progress)
-    - Computer Security (next quarter)
-    - Discrete Structures (next quarter)
+    - Programming Languages 
+    - Data Mining
+    - Computer Security (in-progress)
+    - Discrete Structures (in-progress)
 
 <br/>
 
