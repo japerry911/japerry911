@@ -40,6 +40,8 @@
 [![Skylord Movie Club](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Skylord-Movie-Club)](https://github.com/japerry911/Skylord-Movie-Club)
 <br/>
 [![Skylord's Depot](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Mod2Project_BarterBook)](https://github.com/japerry911/Mod2Project_BarterBook)
+<br/>
+[![Algorithms_and_Data_Structures](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Algorithms_and_Data_Structures)](https://github.com/japerry911/Algorithms_and_Data_Structures)
 
 <br/>
 
