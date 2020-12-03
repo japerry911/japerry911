@@ -73,6 +73,7 @@
 - NASM
 - Heroku Deployment
 - Google Apps Scripts
+- AWS (Python Boto3 SDK)
 
 ## 2020 Accomplishments
 - [Dog-Cave Walkthrough](https://www.youtube.com/watch?v=bXqXe4z9sAk) - React / Elixir Phoenix Full Stack App
