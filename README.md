@@ -101,3 +101,4 @@
 - [React Native: How to Fetch Fonts and Images Prior to Running](https://medium.com/@jack72828383883/react-native-how-to-fetch-fonts-and-images-prior-to-running-932384571f2d)
 - [How to Use JavaScript Fetch to Display API Results in HTML](https://medium.com/@jack72828383883/how-to-use-javascript-fetch-to-display-api-results-in-html-7aa59936ed30)
 - [Ruby — an Object Oriented Programming Language for all](https://medium.com/@jack72828383883/ruby-an-object-oriented-programming-language-for-all-a54dbd7b84df)
+- [Binary Search Trees #1](https://jack72828383883.medium.com/binary-search-trees-1-c75f3259b7b4)
