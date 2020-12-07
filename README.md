@@ -82,7 +82,7 @@
 - [Skylord Depot](https://www.youtube.com/watch?v=wStR5tNoWlY) - React / Ruby on Rails Full Stack Web App (SCSS, Stripe API, Rails Cookies Handling)
 - [Skylord Movie Club Walkthrough](https://www.youtube.com/watch?v=KN1aw6KgI60) - Vue JS / Ruby on Rails Full Stack Web App 
 - [Skylord's Timekeeper](https://www.youtube.com/watch?v=ieFLfJX53Ow) - React JS / GoLang Full Stack Web App
-- Successfully completed DU's Operating Systems I course
+- Successfully completed DU's Operating Systems I, Data Mining, and Programming Languages courses
 - 400+ Kata completed on CodeWars (utilized over 10 different Languages)
 
 ## GitHub Stats
