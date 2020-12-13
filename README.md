@@ -12,7 +12,7 @@
     - Algebraic Problem Solving
     - Programming Languages 
     - Data Mining
-    - Advanced Seminar
+    - Advanced Seminar (1 of 3)
     - Computer Security (in-progress)
     - Discrete Structures (in-progress)
 
