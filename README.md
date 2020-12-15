@@ -103,3 +103,4 @@
 - [How to Use JavaScript Fetch to Display API Results in HTML](https://medium.com/@jack72828383883/how-to-use-javascript-fetch-to-display-api-results-in-html-7aa59936ed30)
 - [Ruby — an Object Oriented Programming Language for all](https://medium.com/@jack72828383883/ruby-an-object-oriented-programming-language-for-all-a54dbd7b84df)
 - [Binary Search Trees #1](https://jack72828383883.medium.com/binary-search-trees-1-c75f3259b7b4)
+- [Binary Search Trees #2](https://jack72828383883.medium.com/binary-search-trees-3031846c02e9)
