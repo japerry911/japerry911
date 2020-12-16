@@ -96,11 +96,11 @@
 [![japerry's github stats](https://www.codewars.com/users/skylord395/badges/large)](https://www.codewars.com/users/skylord395)
 
 ## Blogposts
+- [Binary Search Trees #1](https://jack72828383883.medium.com/binary-search-trees-1-c75f3259b7b4)
+- [Binary Search Trees #2](https://jack72828383883.medium.com/binary-search-trees-3031846c02e9)
 - [How to Preload Images into Cache in React JS](https://medium.com/@jack72828383883/how-to-preload-images-into-cache-in-react-js-ff1642708240)
 - [My First Impressions of Elixir](https://medium.com/@jack72828383883/my-first-impressions-of-elixir-57f0d5741c8f)
 - [How to set up a Simple Loading Spinner in Vue with Vuex](https://medium.com/@jack72828383883/how-to-set-up-a-simple-loading-spinner-in-vue-with-vuex-8afc0ef50363)
 - [React Native: How to Fetch Fonts and Images Prior to Running](https://medium.com/@jack72828383883/react-native-how-to-fetch-fonts-and-images-prior-to-running-932384571f2d)
 - [How to Use JavaScript Fetch to Display API Results in HTML](https://medium.com/@jack72828383883/how-to-use-javascript-fetch-to-display-api-results-in-html-7aa59936ed30)
 - [Ruby — an Object Oriented Programming Language for all](https://medium.com/@jack72828383883/ruby-an-object-oriented-programming-language-for-all-a54dbd7b84df)
-- [Binary Search Trees #1](https://jack72828383883.medium.com/binary-search-trees-1-c75f3259b7b4)
-- [Binary Search Trees #2](https://jack72828383883.medium.com/binary-search-trees-3031846c02e9)
