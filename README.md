@@ -26,6 +26,8 @@
 ## [LinkedIn](https://www.linkedin.com/in/jack-e-perry/)
 
 ## Notable Completed Projects
+[![Algorithms_and_Data_Structures](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Algorithms_and_Data_Structures)](https://github.com/japerry911/Algorithms_and_Data_Structures)
+<br/>
 [![Portfolio 2.0 (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Portfolio-Frontend-2.0)](https://github.com/japerry911/Portfolio-Frontend-2.0)
 <br/>
 [![Dog-Cave](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Dog-Cave)](https://github.com/japerry911/Dog-Cave)
@@ -41,8 +43,6 @@
 [![Skylord Movie Club](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Skylord-Movie-Club)](https://github.com/japerry911/Skylord-Movie-Club)
 <br/>
 [![Skylord's Depot](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Mod2Project_BarterBook)](https://github.com/japerry911/Mod2Project_BarterBook)
-<br/>
-[![Algorithms_and_Data_Structures](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Algorithms_and_Data_Structures)](https://github.com/japerry911/Algorithms_and_Data_Structures)
 
 <br/>
 
