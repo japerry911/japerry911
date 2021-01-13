@@ -13,7 +13,7 @@
     - Programming Languages 
     - Data Mining
     - Advanced Seminar (2 of 3 | in-progress) 
-    - Computer Security (in-progress)
+    - Compiler Design (in-progress)
     - Discrete Structures (in-progress)
 
 <br/>
