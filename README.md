@@ -89,8 +89,6 @@
 ## GitHub Stats
 [![japerry's github stats](https://github-readme-stats.vercel.app/api?username=japerry911&show_icons=true&theme=nightowl&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![japerry's github stats](https://www.codewars.com/users/skylord395/badges/large)](https://www.codewars.com/users/s123456789)
-
 ## Blogposts
 - [Binary Search Trees #1](https://jack72828383883.medium.com/binary-search-trees-1-c75f3259b7b4)
 - [Binary Search Trees #2](https://jack72828383883.medium.com/binary-search-trees-3031846c02e9)
