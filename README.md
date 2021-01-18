@@ -26,9 +26,6 @@
 ## [LinkedIn](https://www.linkedin.com/in/jack-e-perry/)
 
 ## Notable Completed Projects
-<br/>
-[![Coding_Problems_Challenges](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Coding_Problems_Challenges)](https://github.com/japerry911/Coding_Problems_Challenges)
-<br/>
 [![Algorithms_and_Data_Structures](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Algorithms_and_Data_Structures)](https://github.com/japerry911/Algorithms_and_Data_Structures)
 <br/>
 [![Portfolio 2.0 (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Portfolio-Frontend-2.0)](https://github.com/japerry911/Portfolio-Frontend-2.0)
