@@ -12,10 +12,11 @@
     - Algebraic Problem Solving
     - Programming Languages 
     - Data Mining
-    - Advanced Seminar (2 of 3 | in-progress) 
     - Compiler Design (in-progress)
     - Discrete Structures (in-progress)
     - Independent Study (1 of 3) - AWS Cloud Computing (in-progress)
+    - Advanced Seminar (2 of 3 | in-progress) 
+
 
 <br/>
 
