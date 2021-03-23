@@ -93,7 +93,7 @@
 ## GitHub Stats
 [![japerry's github stats](https://github-readme-stats.vercel.app/api?username=japerry911&show_icons=true&theme=nightowl&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japerry911&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japerry911&hide=html&langs_count=10&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Blogposts
