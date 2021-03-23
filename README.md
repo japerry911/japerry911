@@ -28,25 +28,25 @@
 ## [LinkedIn](https://www.linkedin.com/in/jack-e-perry/)
 
 ## Notable Completed Projects
-[![Algorithms_and_Data_Structures](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Coding_Problems_Challenges)](https://github.com/japerry911/Coding_Problems_Challenges)
+[![Algorithms_and_Data_Structures](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Coding_Problems_Challenges&theme=nightowl)](https://github.com/japerry911/Coding_Problems_Challenges)
 <br/>
-[![Algorithms_and_Data_Structures](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Algorithms_and_Data_Structures)](https://github.com/japerry911/Algorithms_and_Data_Structures)
+[![Algorithms_and_Data_Structures](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Algorithms_and_Data_Structures&theme=nightowl)](https://github.com/japerry911/Algorithms_and_Data_Structures)
 <br/>
-[![Portfolio 2.0 (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Portfolio-Frontend-2.0)](https://github.com/japerry911/Portfolio-Frontend-2.0)
+[![Portfolio 2.0 (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Portfolio-Frontend-2.0&theme=nightowl)](https://github.com/japerry911/Portfolio-Frontend-2.0)
 <br/>
-[![Dog-Cave](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Dog-Cave)](https://github.com/japerry911/Dog-Cave)
+[![Dog-Cave](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Dog-Cave&theme=nightowl)](https://github.com/japerry911/Dog-Cave)
 <br/>
-[![Skylord's Timekeeping](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=SkylordsTimekeeping)](https://github.com/japerry911/SkylordsTimekeeping)
+[![Skylord's Timekeeping](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=SkylordsTimekeeping&theme=nightowl)](https://github.com/japerry911/SkylordsTimekeeping)
 <br/>
-[![Vrana Website](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Vrana_v1)](https://github.com/japerry911/Vrana_v1)
+[![Vrana Website](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Vrana_v1&theme=nightowl)](https://github.com/japerry911/Vrana_v1)
 <br/>
-[![Skylord's Library](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Skylords_Library)](https://github.com/japerry911/Skylords_Library)
+[![Skylord's Library](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Skylords_Library&theme=nightowl)](https://github.com/japerry911/Skylords_Library)
 <br/>
-[![Skylord's Depot](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Skylord_Depot)](https://github.com/japerry911/Skylord_Depot)
+[![Skylord's Depot](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Skylord_Depot&theme=nightowl)](https://github.com/japerry911/Skylord_Depot)
 <br/>
-[![Skylord Movie Club](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Skylord-Movie-Club)](https://github.com/japerry911/Skylord-Movie-Club)
+[![Skylord Movie Club](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Skylord-Movie-Club&theme=nightowl)](https://github.com/japerry911/Skylord-Movie-Club)
 <br/>
-[![Skylord's Depot](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Mod2Project_BarterBook)](https://github.com/japerry911/Mod2Project_BarterBook)
+[![Skylord's Depot](https://github-readme-stats.vercel.app/api/pin/?username=japerry911&repo=Mod2Project_BarterBook&theme=nightowl)](https://github.com/japerry911/Mod2Project_BarterBook)
 
 <br/>
 
@@ -93,7 +93,7 @@
 ## GitHub Stats
 [![japerry's github stats](https://github-readme-stats.vercel.app/api?username=japerry911&show_icons=true&theme=nightowl&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japerry911&hide=html&langs_count=10&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japerry911&hide=html&langs_count=10&theme=nightowl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Blogposts
