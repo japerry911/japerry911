@@ -1,26 +1,5 @@
 # Jack Perry
 
-## Computer Science M.S Student | ETL Automation Developer
-- University of Denver - Ritchie School of Computer Science and Engineering
-  - Classes:
-    - C++ I
-    - C++ II
-    - Discrete Math
-    - Computer Organization
-    - Operating Systems
-    - Advanced Systems Programming
-    - Algebraic Problem Solving
-    - Programming Languages 
-    - Data Mining
-    - Compiler Design
-    - Software Engineering I (in-progress) 
-    - Discrete Structures (in-progress)
-    - Independent Study (2 of 3) - AWS Cloud Computing (in-progress)
-    - Advanced Seminar (3 of 3 | in-progress) 
-
-
-<br/>
-
 ## [Personal Site](http://thejackperry.com)
 ##### Note: Project Sites may take up to 20 seconds to load due to being deployed through Heroku Free Tier
 
