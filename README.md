@@ -1,4 +1,4 @@
-# Jack Perry
+# Jack Perry : Data Engineer
 
 ## [Personal Site](http://thejackperry.com)
 ##### Note: Project Sites may take up to 20 seconds to load due to being deployed through Heroku Free Tier
@@ -58,7 +58,7 @@
 - NASM
 - Heroku Deployment
 - Google Apps Scripts
-- AWS (Python Boto3 SDK)
+- AWS (Python Boto3 SDK, S3, ECS, ECR, CloudWatch)
 
 ## 2020 Accomplishments
 - [Dog-Cave Walkthrough](https://www.youtube.com/watch?v=bXqXe4z9sAk) - React / Elixir Phoenix Full Stack App
