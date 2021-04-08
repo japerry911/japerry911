@@ -1,4 +1,5 @@
-# Jack Perry : Data Engineer
+# Jack Perry
+### Data Engineer
 
 ## [Personal Site](http://thejackperry.com)
 ##### Note: Project Sites may take up to 20 seconds to load due to being deployed through Heroku Free Tier
