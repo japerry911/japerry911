@@ -79,6 +79,7 @@
 ## Blogposts
 - [Binary Search Trees #1](https://jack72828383883.medium.com/binary-search-trees-1-c75f3259b7b4)
 - [Binary Search Trees #2](https://jack72828383883.medium.com/binary-search-trees-3031846c02e9)
+- [Binary Search Trees #3](https://jack72828383883.medium.com/binary-search-trees-3-a8798441c457)
 - [How to Preload Images into Cache in React JS](https://medium.com/@jack72828383883/how-to-preload-images-into-cache-in-react-js-ff1642708240)
 - [My First Impressions of Elixir](https://medium.com/@jack72828383883/my-first-impressions-of-elixir-57f0d5741c8f)
 - [How to set up a Simple Loading Spinner in Vue with Vuex](https://medium.com/@jack72828383883/how-to-set-up-a-simple-loading-spinner-in-vue-with-vuex-8afc0ef50363)
