@@ -54,7 +54,7 @@
 - Phoenix Framework / Ecto
 - Postgres
 - Stripe API
-- Google Cloud Platform (Cloud Function, BigQuery, Cloud Storage, App Engine)
+- Google Cloud Platform (Cloud Function, BigQuery, Cloud Storage, App Engine, Cloud Run, Cloud Build, Secrets Manager)
 - NASM
 - Heroku Deployment
 - Google Apps Scripts
