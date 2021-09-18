@@ -55,6 +55,7 @@
 - Postgres
 - Stripe API
 - Google Cloud Platform (Cloud Function, BigQuery, Cloud Storage, App Engine, Cloud Run, Cloud Build, Secrets Manager)
+- GCloud SDK Command Line Tool 
 - NASM
 - Heroku Deployment
 - Google Apps Scripts
