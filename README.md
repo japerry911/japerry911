@@ -31,6 +31,9 @@
 <br/>
 
 ## Experience with
+- Google Cloud Platform (Cloud Function, BigQuery, Cloud Storage, App Engine, Cloud Run, Cloud Build, Secrets Manager)
+- GCloud SDK Command Line Tool 
+- Python 
 - JavaScript
 - React JS
 - React Native
@@ -47,15 +50,12 @@
 - C++
 - C
 - Rust
-- Python 
 - Docker
 - Haskell
 - Elixir
 - Phoenix Framework / Ecto
 - Postgres
 - Stripe API
-- Google Cloud Platform (Cloud Function, BigQuery, Cloud Storage, App Engine, Cloud Run, Cloud Build, Secrets Manager)
-- GCloud SDK Command Line Tool 
 - NASM
 - Heroku Deployment
 - Google Apps Scripts
