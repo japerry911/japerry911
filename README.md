@@ -31,7 +31,7 @@
 <br/>
 
 ## Experience with
-- Google Cloud Platform (Cloud Function, BigQuery, Cloud Storage, App Engine, Cloud Run, Cloud Build, Secrets Manager, Cloud Tasks, Pub/Sub)
+- Google Cloud Platform (Cloud Function, BigQuery, Cloud Storage, Cloud Scheduler, Cloud Run, Cloud Build, Secrets Manager, Cloud Tasks, Pub/Sub)
 - GCloud SDK Command Line Tool 
 - Python 
 - JavaScript
