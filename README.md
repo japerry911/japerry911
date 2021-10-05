@@ -47,6 +47,7 @@
 - NodeJS Express / MongoDB
 - GraphQL (Apollo GraphQL)
 - SQL
+- experience working with REST/SOAP API 
 - C++
 - C
 - Rust
