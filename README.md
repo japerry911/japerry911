@@ -61,7 +61,7 @@
 - Heroku Deployment
 - Google Apps Scripts
 - SalesForce REST API
-- AWS (Python Boto3 SDK, S3, ECS, ECR, CloudWatch, Lambda)
+- AWS (Python Boto3 SDK, S3, ECS, ECR, CloudWatch, Lambda) - Cloud Practioner Certification
 
 ## 2020 Accomplishments
 - [Dog-Cave Walkthrough](https://www.youtube.com/watch?v=bXqXe4z9sAk) - React / Elixir Phoenix Full Stack App
