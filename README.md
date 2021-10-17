@@ -63,15 +63,6 @@
 - SalesForce REST API
 - AWS (Python Boto3 SDK, S3, ECS, ECR, CloudWatch, Lambda) - Cloud Practioner Certification
 
-## 2020 Accomplishments
-- [Dog-Cave Walkthrough](https://www.youtube.com/watch?v=bXqXe4z9sAk) - React / Elixir Phoenix Full Stack App
-- [Skylord's Library](https://www.youtube.com/watch?v=q3Z97DHl-2o) - React Native / Ruby on Rails Full Stack Mobile App
-- [Vrana Website](https://www.youtube.com/watch?v=oTsT9zg0lbA) - React / Ruby on Rails Full Stack Web App (Material-UI Framework)
-- [Skylord Depot](https://www.youtube.com/watch?v=wStR5tNoWlY) - React / Ruby on Rails Full Stack Web App (SCSS, Stripe API, Rails Cookies Handling)
-- [Skylord Movie Club Walkthrough](https://www.youtube.com/watch?v=KN1aw6KgI60) - Vue JS / Ruby on Rails Full Stack Web App 
-- [Skylord's Timekeeper](https://www.youtube.com/watch?v=ieFLfJX53Ow) - React JS / GoLang Full Stack Web App
-- Successfully completed DU's Operating Systems I, Data Mining, and Programming Languages courses
-- 400+ Kata completed on CodeWars (utilized over 10 different Languages)
 
 ## GitHub Stats
 [![japerry's github stats](https://github-readme-stats.vercel.app/api?username=japerry911&show_icons=true&theme=nightowl&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
