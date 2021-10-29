@@ -31,7 +31,7 @@
 <br/>
 
 ## Experience with
-- Google Cloud Platform (Cloud Function, BigQuery, Cloud Storage, Cloud Logging, Cloud Scheduler, Cloud Run, Cloud Build, Secrets Manager, Cloud Tasks, Pub/Sub, Artifact Registry, Cloud Monitoring)
+- Google Cloud Platform (Cloud Function, BigQuery, Cloud Storage, Cloud Logging, Cloud Scheduler, Cloud Run, Cloud Build, Secrets Manager, Cloud Tasks, Pub/Sub, Artifact Registry, Cloud Monitoring, Cloud Code (PyCharm Plugin))
 - GCloud SDK Command Line Tool (gcloud, bq, gsutil)
 - Python 
 - Facebook Ads API
