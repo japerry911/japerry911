@@ -63,6 +63,7 @@
 - Google Apps Scripts
 - SalesForce REST API
 - AWS (Python Boto3 SDK, S3, ECS, ECR, CloudWatch, Lambda) - Cloud Practioner Certification
+- React Testing Library & Jest
 
 
 ## GitHub Stats
