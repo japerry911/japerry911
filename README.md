@@ -30,43 +30,6 @@
 
 <br/>
 
-## Experience with
-- Google Cloud Platform (Cloud Function, BigQuery, Cloud Storage, Cloud Logging, Cloud Scheduler, Cloud Run, Cloud Build, Secrets Manager, Cloud Tasks, Pub/Sub, Artifact Registry, Cloud Monitoring, Cloud Code (PyCharm Plugin))
-- GCloud SDK Command Line Tool (gcloud, bq, gsutil)
-- Python 
-- Facebook Ads API
-- JavaScript
-- React JS
-- React Native
-- Vue JS
-- GoLang
-- Gorilla Mux Router
-- Ruby
-- Ruby on Rails / Rake
-- HTML/CSS/SCSS
-- Google Material-UI Framework
-- NodeJS Express / MongoDB
-- GraphQL (Apollo GraphQL)
-- SQL
-- experience working with REST/SOAP API 
-- C++
-- C
-- Rust
-- Docker
-- Haskell
-- Elixir
-- Phoenix Framework / Ecto
-- Postgres
-- Stripe API
-- NASM
-- Heroku Deployment
-- Google Apps Scripts
-- SalesForce REST API
-- AWS (Python Boto3 SDK, S3, ECS, ECR, CloudWatch, Lambda) - Cloud Practioner Certification
-- React Testing Library & Jest
-- Cypress.io
-
-
 ## GitHub Stats
 [![japerry's github stats](https://github-readme-stats.vercel.app/api?username=japerry911&show_icons=true&theme=nightowl&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
