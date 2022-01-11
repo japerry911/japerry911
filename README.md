@@ -10,10 +10,11 @@
 <br/>
 
 ## GitHub Stats
-[![japerry's github stats](https://github-readme-stats-lemon-eta.vercel.app/api?username=japerry911&show_icons=true&theme=nightowl&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
-<br/><br/>
-[![Top Langs](https://github-readme-stats-lemon-eta.vercel.app/api/top-langs/?username=japerry911&hide=html,Jupyter%20Notebook&langs_count=10&theme=nightowl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+ <img src="https://github-readme-stats-lemon-eta.vercel.app/api?username=japerry911&show_icons=true&theme=nightowl&count_private=true&hide=issues,stars" width="500" align="left" height="500" />
+ <img src="https://github-readme-stats-lemon-eta.vercel.app/api/top-langs/?username=japerry911&hide=html,Jupyter%20Notebook&langs_count=10&theme=nightowl&count_private=true" width="300" />
+</div>
+ 
 <br/>
 
 ## Notable Completed Projects
