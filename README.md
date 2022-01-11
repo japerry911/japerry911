@@ -7,6 +7,15 @@
  
 ## [LinkedIn](https://www.linkedin.com/in/jack-e-perry/)
 
+<br/>
+
+## GitHub Stats
+[![japerry's github stats](https://github-readme-stats-lemon-eta.vercel.app/api?username=japerry911&show_icons=true&theme=nightowl&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+<br/><br/>
+[![Top Langs](https://github-readme-stats-lemon-eta.vercel.app/api/top-langs/?username=japerry911&hide=html,Jupyter%20Notebook&langs_count=10&theme=nightowl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
 ## Notable Completed Projects
 [![Algorithms_and_Data_Structures](https://github-readme-stats-lemon-eta.vercel.app/api/pin/?username=japerry911&repo=Coding_Problems_Challenges&theme=nightowl)](https://github.com/japerry911/Coding_Problems_Challenges)
 <br/>
@@ -29,12 +38,6 @@
 [![Skylord's Depot](https://github-readme-stats-lemon-eta.vercel.app/api/pin/?username=japerry911&repo=Mod2Project_BarterBook&theme=nightowl)](https://github.com/japerry911/Mod2Project_BarterBook)
 
 <br/>
-
-## GitHub Stats
-[![japerry's github stats](https://github-readme-stats-lemon-eta.vercel.app/api?username=japerry911&show_icons=true&theme=nightowl&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
-<br/><br/>
-[![Top Langs](https://github-readme-stats-lemon-eta.vercel.app/api/top-langs/?username=japerry911&hide=html,Jupyter%20Notebook&langs_count=10&theme=nightowl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Blogposts
 - [Binary Search Trees #1](https://jack72828383883.medium.com/binary-search-trees-1-c75f3259b7b4)
