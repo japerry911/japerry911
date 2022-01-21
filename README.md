@@ -2,7 +2,7 @@
 
 ## [Personal Site](http://thejackperry.com)
 ##### Note: Project Sites may take up to 20 seconds to load due to being deployed through Heroku Free Tier settings
-
+ 
 <br/>
  
 ## [LinkedIn](https://www.linkedin.com/in/jack-e-perry/)
