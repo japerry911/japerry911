@@ -1,4 +1,4 @@
-# Jack Perry - Senior Developer, Metric Theory
+# Jack Perry - Senior Developer at Metric Theory | A Media.Monks Company
 
 ## [Personal Site](http://thejackperry.com)
 ##### Note: Project Sites may take up to 20 seconds to load due to being deployed through Heroku Free Tier settings
