@@ -4,7 +4,7 @@
 <br/>
 
 ## [Personal Site](http://thejackperry.com)
-##### Note: May take up to 20 seconds to load due to being deployed through Heroku Free Tier settings
+##### Note: May take up to 20 seconds to load due to being deployed through Heroku Free Tier
  
 <br/>
  
