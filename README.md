@@ -1,5 +1,5 @@
 # Jack Perry
-##### Senior Developer at Metric Theory | A Media.Monks Company
+##### Senior Developer, AMP at Metric Theory | A Media.Monks Company
 ##### AWS Cloud Practitioner
 ##### GCP Associate Cloud Engineer
  
