@@ -4,11 +4,6 @@
 ##### GCP Associate Cloud Engineer
  
 <br/>
-
-## [Personal Site](http://thejackperry.com)
-##### Note: May take up to 20 seconds to load due to being deployed through Heroku Free Tier
- 
-<br/>
  
 ## [LinkedIn](https://www.linkedin.com/in/jack-e-perry/)
 
