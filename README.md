@@ -1,4 +1,5 @@
 # Jack Perry
+##### Data Engineer @ Digible, Inc.
 ##### AWS Cloud Practitioner
 ##### GCP Associate Cloud Engineer
  
