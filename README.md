@@ -2,6 +2,7 @@
 ##### Data Engineer @ Digible, Inc.
 ##### AWS Cloud Practitioner
 ##### GCP Associate Cloud Engineer
+##### Snowflake SnowPro Core Certified 
 
 <br/>
 
