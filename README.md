@@ -1,5 +1,5 @@
 # Jack Perry
-##### Data Engineer @ Digible, Inc.
+##### Data Engineer @ Foundation Direct
 ##### AWS Cloud Practitioner
 ##### GCP Associate Cloud Engineer
 ##### Snowflake SnowPro Core Certified 
