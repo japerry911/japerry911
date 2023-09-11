@@ -1,8 +1,4 @@
-# Jack Perry
-##### Data Engineer @ Foundation Direct
-##### AWS Cloud Practitioner
-##### GCP Associate Cloud Engineer
-##### Snowflake SnowPro Core Certified 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=FFFFFF&multiline=true&repeat=false&width=435&height=80&lines=Jack+Perry;Data+Engineer+%40+Foundation+Direct;Certified+in%3A+AWS+%7C+GCP+%7C+Snowflake)](https://git.io/typing-svg)
 
 <br/>
 
