@@ -6,6 +6,7 @@ Certified in:
  <li>AWS</li>
  <li>Snowflake</li>
  <li>Prefect</li>
+ <li>GitHub Actions</li>
 </ul>
 
 ## Codewars
