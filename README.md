@@ -13,6 +13,6 @@ Certified in:
 <br/>
 <img src="https://www.codewars.com/users/SirSkylord/badges/large" width="300" />
  
-<br/>
+<br/> 
  
 ## [LinkedIn](https://www.linkedin.com/in/jack-e-perry/)
