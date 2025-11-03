@@ -2,6 +2,7 @@
 
 Certified in:
 <ul>
+ <li>Kestra</li>
  <li>GCP</li>
  <li>AWS</li>
  <li>Snowflake</li>
