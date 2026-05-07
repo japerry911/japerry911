@@ -1,13 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=750&color=FFFFFF&multiline=true&repeat=true&width=435&height=80&lines=Jack+Perry;Founding+Engineer+%40+Foundation+Data)](https://git.io/typing-svg)
 
-Certified in:
+Love working in:
 <ul>
  <li>Kestra</li>
  <li>GCP</li>
- <li>AWS</li>
+ <li>Kubernetes</li>
  <li>Snowflake</li>
- <li>Prefect</li>
+ <li>Dash0</li>
  <li>GitHub Actions</li>
+ <li>GoLang</li>
+ <li>Terraform</li>
+ <li>So! Much! More!</li>
 </ul>
 
 ## Codewars
