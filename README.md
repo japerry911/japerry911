@@ -10,6 +10,7 @@ Love working in:
  <li>GitHub Actions</li>
  <li>GoLang</li>
  <li>Terraform</li>
+ <li>Python</li>
  <li>So! Much! More!</li>
 </ul>
 
